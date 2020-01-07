@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Socialcard/static/css/main.e43c6dcf.chunk.css",
+    "main.js": "/Socialcard/static/js/main.a680bd37.chunk.js",
+    "main.js.map": "/Socialcard/static/js/main.a680bd37.chunk.js.map",
+    "runtime-main.js": "/Socialcard/static/js/runtime-main.e8259b75.js",
+    "runtime-main.js.map": "/Socialcard/static/js/runtime-main.e8259b75.js.map",
+    "static/js/2.e4aec962.chunk.js": "/Socialcard/static/js/2.e4aec962.chunk.js",
+    "static/js/2.e4aec962.chunk.js.map": "/Socialcard/static/js/2.e4aec962.chunk.js.map",
+    "index.html": "/Socialcard/index.html",
+    "precache-manifest.152b860f720dede09960e724c788eb37.js": "/Socialcard/precache-manifest.152b860f720dede09960e724c788eb37.js",
+    "service-worker.js": "/Socialcard/service-worker.js",
+    "static/css/main.e43c6dcf.chunk.css.map": "/Socialcard/static/css/main.e43c6dcf.chunk.css.map",
+    "static/js/2.e4aec962.chunk.js.LICENSE": "/Socialcard/static/js/2.e4aec962.chunk.js.LICENSE",
+    "static/media/mat.jpg": "/Socialcard/static/media/mat.20213d8e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8259b75.js",
+    "static/js/2.e4aec962.chunk.js",
+    "static/css/main.e43c6dcf.chunk.css",
+    "static/js/main.a680bd37.chunk.js"
+  ]
+}
